@@ -1,3 +1,6 @@
+node_modules
+.env
+
 ./FE/# Logs
 ./FE/logs
 ./FE/*.log
@@ -22,3 +25,4 @@
 ./FE/*.njsproj
 ./FE/*.sln
 ./FE/*.sw?
+
